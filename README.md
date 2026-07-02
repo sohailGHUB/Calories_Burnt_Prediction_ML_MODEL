@@ -78,25 +78,34 @@ Among the evaluated models, XGBoost Regression achieved the best prediction perf
 
 ## How to Run
 
-1. Clone the repository
+## How to Run
+
+### Option 1: Google Colab (Recommended)
+
+1. Clone or download this repository.
+2. Open **Google Colab**.
+3. Upload the `Calories_Burnt_Prediction.ipynb` notebook.
+4. Upload the required dataset (`dataset.csv`) to the Colab session.
+5. Run the notebook cells sequentially.
+
+### Option 2: Run Locally
+
+1. Clone the repository.
 
 ```bash
 git clone https://github.com/yourusername/Calories-Burnt-Prediction.git
 ```
 
-2. Install dependencies
+2. Install the required dependencies.
 
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Open the notebook
+3. Open the notebook using Jupyter Notebook or VS Code with the Jupyter extension.
 
-```bash
-jupyter notebook Calories_Burnt_Prediction.ipynb
 ```
 
-or upload the notebook to Google Colab.
 
 ## Future Improvements
 
