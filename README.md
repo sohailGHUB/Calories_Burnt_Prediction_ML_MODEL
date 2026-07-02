@@ -1,5 +1,4 @@
 # Calories_Burnt_Prediction_ML_MODEL
-# Calories Burnt Prediction System
 
 ## Overview
 
